@@ -1,1 +1,1 @@
-All code created by following the YouTube tutorial by Bluefever Software [here](https://www.youtube.com/playlist?list=PLZ1QII7yudbecO6a-zAI6cuGP1LLnmW8e)
+All code created by following the YouTube tutorial by Bluefever Software [here](https://www.youtube.com/playlist?list=PLZ1QII7yudbecO6a-zAI6cuGP1LLnmW8e) and on [Github here](https://github.com/bluefeversoft/forex_python)
